@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="667mm"
+   height="545mm"
+   viewBox="0 0 667 545"
+   version="1.1"
+   id="svg5"
+   inkscape:export-filename="zerotime.svg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   sodipodi:docname="zero.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     showguides="true"
+     inkscape:zoom="0.16202909"
+     inkscape:cx="1043.0226"
+     inkscape:cy="1265.2049"
+     inkscape:window-width="1280"
+     inkscape:window-height="737"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g7615">
+    <sodipodi:guide
+       position="567.74083,400.39517"
+       orientation="1,0"
+       id="guide1114"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="469.85449,338.54879"
+       orientation="1,0"
+       id="guide1116"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="665.18226,327.42534"
+       orientation="1,0"
+       id="guide1118"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="585.9833,428.42625"
+       orientation="0,-1"
+       id="guide1120"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="571.74528,237.54787"
+       orientation="0,-1"
+       id="guide1122"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="601.11119,332.31966"
+       orientation="0,-1"
+       id="guide1124"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="567.81858,332.24193"
+       orientation="0.70710678,0.70710678"
+       id="guide1282"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
+    <sodipodi:guide
+       position="567.71316,332.29361"
+       orientation="0.70710678,-0.70710678"
+       id="guide2838"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient6688">
+      <stop
+         style="stop-color:#c400ab;stop-opacity:1;"
+         offset="0"
+         id="stop6684" />
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0.47463769"
+         id="stop6686" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient6606"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#5c3500;stop-opacity:1;"
+         offset="0"
+         id="stop6604" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6688"
+       id="linearGradient6690"
+       x1="236.71754"
+       y1="57.177505"
+       x2="228.41167"
+       y2="564.22333"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g7615"
+       transform="matrix(1.0195138,0,0,1.2900532,-8.6467984,-39.440801)">
+      <text
+         xml:space="preserve"
+         style="font-size:257.194px;fill:url(#linearGradient6690);fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+         x="0.51607412"
+         y="303.69299"
+         id="text236"
+         transform="scale(1.0193583,0.98100935)"><tspan
+           sodipodi:role="line"
+           id="tspan234"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Constantia;-inkscape-font-specification:Constantia;fill:url(#linearGradient6690);fill-opacity:1;stroke:none;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
+           x="0.51607412"
+           y="303.69299">ZERO</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:80.5735px;font-family:'Tsukimi Rounded';-inkscape-font-specification:'Tsukimi Rounded';fill:#000000;fill-opacity:1;stroke:none;stroke-width:5.07551;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1;paint-order:stroke markers fill"
+         x="502.06268"
+         y="323.57419"
+         id="text348"
+         transform="scale(0.8785058,1.1382964)"><tspan
+           sodipodi:role="line"
+           id="tspan346"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Tsukimi Rounded';-inkscape-font-specification:'Tsukimi Rounded';fill:#000000;fill-opacity:1;stroke:none;stroke-width:5.07551;stroke-opacity:1"
+           x="502.06268"
+           y="323.57419">games</tspan></text>
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Capa 2" />
+</svg>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="26mm"
+   height="37mm"
+   viewBox="0 0 26 36.999999"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="loga.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     showguides="true"
+     inkscape:zoom="2.9101758"
+     inkscape:cx="105.14829"
+     inkscape:cy="65.975395"
+     inkscape:window-width="1280"
+     inkscape:window-height="737"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <sodipodi:guide
+       position="104.99733,219.8532"
+       orientation="1,0"
+       id="guide898"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="23.274653,-1.5486454"
+       orientation="0,-1"
+       id="guide900"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="0,-172.19914"
+       orientation="1,0"
+       id="guide1261"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="209.98329,-234.26109"
+       orientation="1,0"
+       id="guide1263"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="36.515444,-144.03431"
+       orientation="1,0"
+       id="guide1377"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="170.74827,-144.54862"
+       orientation="1,0"
+       id="guide1379"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="130.19259,-204.47453"
+       orientation="0,-1"
+       id="guide1415"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="112.7366,-247.38718"
+       orientation="0,-1"
+       id="guide1417"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="117.82793,9.3613574"
+       orientation="0,-1"
+       id="guide1419"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="138.92058,-195.74654"
+       orientation="0,-1"
+       id="guide1421"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.20701px;font-family:Consolas;-inkscape-font-specification:Consolas;opacity:0.99;fill:#038af5;fill-opacity:1;stroke:#038af5;stroke-width:1.22598;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1.22598, 29.4235;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       x="0.81316191"
+       y="9.1547709"
+       id="text1192"
+       transform="scale(0.45223405,2.2112444)"><tspan
+         sodipodi:role="line"
+         id="tspan1190"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;fill:#038af5;fill-opacity:1;stroke:#038af5;stroke-width:1.22598;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1.22598, 29.4235;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         x="0.81316191"
+         y="9.1547709">&lt;DEV WORLD&gt;</tspan></text>
+  </g>
+</svg>
