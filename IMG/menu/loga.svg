@@ -25,9 +25,9 @@
      inkscape:document-units="mm"
      showgrid="false"
      showguides="true"
-     inkscape:zoom="2.9101758"
-     inkscape:cx="105.14829"
-     inkscape:cy="65.975395"
+     inkscape:zoom="5.8203516"
+     inkscape:cx="54.979496"
+     inkscape:cy="51.371467"
      inkscape:window-width="1280"
      inkscape:window-height="737"
      inkscape:window-x="-8"
@@ -94,14 +94,14 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.20701px;font-family:Consolas;-inkscape-font-specification:Consolas;opacity:0.99;fill:#038af5;fill-opacity:1;stroke:#038af5;stroke-width:1.22598;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1.22598, 29.4235;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
-       x="0.81316191"
-       y="9.1547709"
+       x="-0.29255179"
+       y="9.1958866"
        id="text1192"
        transform="scale(0.45223405,2.2112444)"><tspan
          sodipodi:role="line"
          id="tspan1190"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;fill:#038af5;fill-opacity:1;stroke:#038af5;stroke-width:1.22598;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1.22598, 29.4235;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
-         x="0.81316191"
-         y="9.1547709">&lt;DEV WORLD&gt;</tspan></text>
+         x="-0.29255179"
+         y="9.1958866">&lt;DEV WORLD&gt;</tspan></text>
   </g>
 </svg>
